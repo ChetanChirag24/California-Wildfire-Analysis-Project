@@ -22,18 +22,25 @@ Specific Goals:
     Use Tableau to build a dynamic dashboard with animated timelines, filters, and heatmaps
 
    <img width="992" alt="Screenshot 2025-05-21 at 2 28 56 PM" src="https://github.com/user-attachments/assets/22429ad3-30db-4442-88cb-f6875a29c030" />
+   <img width="989" alt="Screenshot 2025-05-23 at 5 42 42 PM" src="https://github.com/user-attachments/assets/699cea84-a56c-4115-bd87-1ce47335165b" />
 
    
 5) Dashboard Design
     Build interactive visual elements including KPI tiles, maps, trendlines, and heatmaps
     Enable real-time filtering by fire source, year, and display status
+
+   <img width="1124" alt="Screenshot 2025-05-23 at 5 40 11 PM" src="https://github.com/user-attachments/assets/14489bc4-17ff-470e-946a-7b163a19c766" />
+
    
-6) Predictive Modeling
+7) Predictive Modeling
     Develop a machine learning model (Random Forest, XGBoost) to predict area burned
     Engineer relevant features such as month, fire type, and historical behavior
     Interpret model results using feature importance scores
 
-7) Insight Generation
+    ![image](https://github.com/user-attachments/assets/bbb0e3cb-1be2-4863-b07d-56ad41f3beb1)
+
+
+8) Insight Generation
     Translate visual and model-based findings into actionable insights for climate risk awareness
     Highlight the value of data analytics in understanding and responding to environmental hazards
 
