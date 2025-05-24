@@ -33,8 +33,10 @@ Specific Goals:
     Enable real-time filtering by fire source, year, and display status
 
    <img width="1124" alt="Screenshot 2025-05-23 at 5 40 11 PM" src="https://github.com/user-attachments/assets/14489bc4-17ff-470e-946a-7b163a19c766" />
-
    
+    https://github.com/user-attachments/assets/9e2c0478-8e9f-4e2b-b5cc-d8db90e1140d
+
+
 7) Predictive Modeling
     Develop a machine learning model (Random Forest, XGBoost) to predict area burned
     Engineer relevant features such as month, fire type, and historical behavior
