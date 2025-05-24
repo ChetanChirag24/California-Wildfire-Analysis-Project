@@ -20,17 +20,20 @@ Specific Goals:
 3) Geospatial and Temporal Visualization
     Create 2D and 3D spatial maps to visualize fire perimeters
     Use Tableau to build a dynamic dashboard with animated timelines, filters, and heatmaps
+
+   <img width="992" alt="Screenshot 2025-05-21 at 2 28 56 PM" src="https://github.com/user-attachments/assets/22429ad3-30db-4442-88cb-f6875a29c030" />
+
    
-4) Dashboard Design
+5) Dashboard Design
     Build interactive visual elements including KPI tiles, maps, trendlines, and heatmaps
     Enable real-time filtering by fire source, year, and display status
    
-5) Predictive Modeling
+6) Predictive Modeling
     Develop a machine learning model (Random Forest, XGBoost) to predict area burned
     Engineer relevant features such as month, fire type, and historical behavior
     Interpret model results using feature importance scores
 
-6) Insight Generation
+7) Insight Generation
     Translate visual and model-based findings into actionable insights for climate risk awareness
     Highlight the value of data analytics in understanding and responding to environmental hazards
 
