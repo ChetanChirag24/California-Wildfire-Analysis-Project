@@ -7,6 +7,9 @@ Objective:
 
 The primary objective of this project is to analyze, visualize, and model wildfire activity in California using real-world perimeter data from 2024–2025. The project aims to identify spatial and temporal patterns in wildfire occurrences, understand the scale and distribution of affected areas, and explore predictive modeling techniques to estimate fire spread potential. This work combines geospatial analysis, time-series exploration, and interactive dashboard design to support data-driven insights in the context of climate change and disaster management.
 
+<img width="964" alt="Screenshot 2025-05-23 at 5 45 30 PM" src="https://github.com/user-attachments/assets/5d7df006-f7b1-4b88-b9b4-02d13a17b8d8" />
+
+
 Specific Goals:
 
 1) Data Acquisition & Cleaning
